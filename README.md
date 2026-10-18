@@ -8,7 +8,7 @@ A sleek, modern, glassmorphic **Digital Clock** application built using **React*
 
 *Figure 1: Digital Clock user interface featuring a glassmorphism card design and a vibrant gradient background.*
 
-![Digital Clock]()
+![Digital Clock](DigitalClock-ReactJs.png)
 
 ---
 
